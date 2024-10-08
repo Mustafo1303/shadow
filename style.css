@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    background: url(image\ 1.png) no-repeat center/cover;
+    width: 1600px;
+height: 1024px;
+
+
+    
+}
+.img1{
+    width: 50px;
+height: 50px;
+margin-top: 30px;
+margin-left: 52px;
+}
+
+.stream1{
+   display: flex;
+     width: 202px;
+height: 52px;
+margin-top: -40px;
+margin-left: 189px;
+font-family: "Roboto", sans-serif;
+border: 3px solid #009FF5B5;
+background-color: #009FF5B5;
+color: white;
+border-radius: 10px;
+font-size: 15px;
+display: flex;
+justify-content: center;
+align-items: center;
+box-shadow: 0px 4px 4px 0px #DAD3FF;
+
+}
+.code{
+    width: 268px;
+height: 22px;
+margin-top: -44px;
+margin-left: 448px;
+color: #D5D5D6;
+box-shadow: 0px 4px 4px 0px #000000E0;
+
+
+}
+.lang{
+    width: 184px;
+height: 24px;
+margin-top: -24px;
+margin-left: 879px;
+box-shadow: 0px 4px 4px 0px #000000;
+
+
+
+}
+.best{
+    width: 604px;
+height: 103px;
+margin-top: 243px;
+margin-left: 443px;
+border-radius: 50px;
+border: 11px solid #5A5555;
+background-color: #FFC611;
+font-family: "Roboto", sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 42.19px;
+text-align: center;
+text-shadow: 0px 4px 4px  #0047FF;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.foto{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    font-family: "Roboto", sans-serif;
+font-size: 36px;
+font-weight: 600;
+line-height: 42.19px;
+text-align: left;
+box-shadow: 8px 7px 20px 0px #FFFFFF;
+
+
+
+}
+.foto1{
+    width: 361px;
+height: 70px;
+margin-top: -16px;
+left: 159px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 36px;
+font-weight: 600;
+line-height: 42.19px;
+text-align: left;
+background-color: #1F1F1F;
+display: flex;
+justify-content: center;
+align-items: center;
+text-shadow: 0px 4px 4px  #FFC200;
+
+}
+.information{
+    background-color: #000000;
+    width: 1600px;
+height: 1442px;
+margin-top: -82px;
+
+
+}
+.text{
+    width: 346px;
+height: 64px;
+margin-top: 82px;
+margin-left: 650px;
+font-family: Roboto;
+font-size: 64px;
+font-weight: 600;
+line-height: 75px;
+text-align: center;
+text-shadow: 0px 4px 4px #FFFFFF;
+color: #5A5555;
+
+
+}
+.image10{
+    margin-left: 58px;
+}
+.text1{
+    width: 663px;
+height: 140px;
+margin-top: -304px;
+margin-left: 716px;
+color: #FFFFFF;
+font-family:  "Roboto", sans-serif;
+font-size: 27px;
+font-weight: 600;
+line-height: 31.64px;
+text-align: left;
+
+}
+.read{
+    width: 278px;
+height: 61px;
+margin-top: 48px;
+margin-left: 716px;
+background-color: #FFC200;
+color: white;
+text-shadow: 0px 4px 4px #040404CF;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: "Roboto", sans-serif;
+font-size: 27px;
+font-weight: 700;
+line-height: 31.64px;
+text-align: left;
+box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+
+
+}
+.read:hover{
+    
+background-color: #535353;
+color: white;
+text-shadow: 0px 4px 4px white;
+transition: 600ms;
+color: rgb(9, 9, 9);
+font-size: 20px;
+font-weight: 700;
+display: block inline;
+}
+.Uzbekistan{
+    width: 663px;
+height: 140px;
+margin-top: 278px;
+margin-left: 58px;
+font-family: "Roboto", sans-serif;
+font-size: 27px;
+font-weight: 600;
+line-height: 31.64px;
+text-align: left;
+color: #FFFFFF;
+}
+.image11{
+    width: 572px;
+height: 304px;
+margin-top: -110px;
+margin-left: 900px;
+
+
+}
+.more{
+    width: 278px;
+    height: 61px;
+    margin-top: -108px;
+    margin-left: 106px;
+    background-color: #FFC200;
+    color: white;
+    text-shadow: 0px 4px 4px #040404CF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 31.64px;
+    text-align: left;
+    box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+    
+}
+.more:hover{
+    background-color: #535353;
+    color: white;
+    text-shadow: 0px 4px 4px white;
+    transition: 600ms;
+    color: rgb(9, 9, 9);
+    font-size: 20px;
+    font-weight: 700;
+    display:  block inline;
+    }
+    footer{
+        width: 1600px;
+height: 148px;
+background-color: #FFC611;
+    }
+    .image12{
+        margin-top: 50px;
+        margin-left: 55px;
+    }
+.ilova{
+    display: flex;
+    gap: 56px;
+   margin-left: 1250px;
+margin-top: -50px;
+}
